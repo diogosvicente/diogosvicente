@@ -6,6 +6,7 @@
 
 <ul>
   <li> 📍 live in Rio de Janeiro, Brazil </li>
+  <li> 📚 Technical degree in data processing at <a href="http://www.faetec.rj.gov.br/">FAETEC</a> </li>
   <li> 📚 Graduated in Computer Science at <a href="http://www.uezo.rj.gov.br/">UEZO</a> </li>
   <li> 📚 Postgraduate in Multiplatform Mobile Application Projects at <a href="https://descomplica.com.br/home/a/">Descomplica</a></li>
   <li> ✉️ Contact me at: dioda-si@student.42.rio </li>
@@ -14,8 +15,8 @@
 <div style="display: inline_block"><br/>  
   
   #### Learning at 42 Rio
-  <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   
   #### Development at UERJ
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
