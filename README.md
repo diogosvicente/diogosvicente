@@ -1,6 +1,10 @@
-### Hi! I'm Diogo 👋 =) <hr>
+### Hi! I'm Diogo 👋 =)
+
+<hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogosvicente&show_icons=true&theme=radical)
+
+<hr>
 
 ### About me!
 
@@ -13,6 +17,7 @@
   <li> ✉️ Contact me at: dioda-si@student.42.rio </li>
 </ul>
 
+<hr>
 
 ### Technologies I use in my day
 
