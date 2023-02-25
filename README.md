@@ -9,6 +9,7 @@
   <li> 📚 Technical degree in data processing at <a href="http://www.faetec.rj.gov.br/">FAETEC</a> </li>
   <li> 📚 Graduated in Computer Science at <a href="http://www.uezo.rj.gov.br/">UEZO</a> </li>
   <li> 📚 Postgraduate in Multiplatform Mobile Application Projects at <a href="https://descomplica.com.br/home/a/">Descomplica</a></li>
+  <li> 📚 Currently increasing my learning in C and C++ at <a href="https://42.rio/">42 Rio</a> </li>
   <li> ✉️ Contact me at: dioda-si@student.42.rio </li>
 </ul>
 
