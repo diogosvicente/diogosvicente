@@ -7,6 +7,7 @@
 <ul>
   <li> 📍 live in Rio de Janeiro, Brazil </li>
   <li> 📚 Graduated in Computer Science at <a href="http://www.uezo.rj.gov.br/">UEZO</a> </li>
+  <li> 📚 Postgraduate in Multiplatform Mobile Application Projects at <a href="https://descomplica.com.br/home/a/">Descomplica</a></li>
   <li> ✉️ Contact me at: dioda-si@student.42.rio </li>
 </ul>
 
