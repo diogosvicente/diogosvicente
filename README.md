@@ -7,7 +7,7 @@
 ### About me!
 
 <ul>
-  <li> 📍 live in Rio de Janeiro, Brazil </li>
+  <li> 📍 Live in Rio de Janeiro, Brazil </li>
   <li> 📚 Technical degree in Data Processing at <a href="http://www.faetec.rj.gov.br/">FAETEC</a> </li>
   <li> 📚 Graduated in Computer Science at <a href="http://www.uezo.rj.gov.br/">UEZO</a> </li>
   <li> 📚 Postgraduate in Multiplatform Mobile Application Projects at <a href="https://descomplica.com.br/home/a/">Descomplica</a></li>
