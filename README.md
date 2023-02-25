@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogosvicente&show_icons=true&theme=radical)
 
-## Technologies I use in my day
+### About me!
 
 <ul>
   <li> 📍 live in Rio de Janeiro, Brazil </li>
@@ -12,6 +12,9 @@
   <li> 📚 Currently increasing my learning in C and C++ at <a href="https://42.rio/">42 Rio</a> </li>
   <li> ✉️ Contact me at: dioda-si@student.42.rio </li>
 </ul>
+
+
+### Technologies I use in my day
 
 <div style="display: inline_block"><br/>  
   
