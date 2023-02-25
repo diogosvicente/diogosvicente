@@ -4,6 +4,12 @@
 
 ## Technologies I use in my day
 
+<ul>
+  <li> live in Rio de Janeiro, Brazil </li>
+  
+  <li> ✉️ Contact me at: dioda-si@student.42.rio </li>
+</ul>
+
 <div style="display: inline_block"><br/>  
   
   #### Learning at 42 Rio
