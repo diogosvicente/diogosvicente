@@ -1,4 +1,4 @@
-### Hi! I'm Diogo 👋 =) 
+### Hi! I'm Diogo 👋 =) </ hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogosvicente&show_icons=true&theme=radical)
 
