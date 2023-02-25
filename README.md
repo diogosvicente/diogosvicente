@@ -21,7 +21,7 @@
 
 ### Technologies I use in my day
 
-<div style="display: inline_block"><br/>  
+<div style="display: inline_block">
   
   #### Learning at 42 Rio
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
