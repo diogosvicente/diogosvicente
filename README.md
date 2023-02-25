@@ -5,7 +5,7 @@
 ## Technologies I use in my day
 
 <ul>
-  <li> live in Rio de Janeiro, Brazil </li>
+  <li> 📍 live in Rio de Janeiro, Brazil </li>
   
   <li> ✉️ Contact me at: dioda-si@student.42.rio </li>
 </ul>
