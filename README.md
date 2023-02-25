@@ -1,8 +1,8 @@
-### Olá! Eu sou o Diogo 👋 =) 
+### Hi! I'm Diogo 👋 =) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogosvicente&show_icons=true&theme=radical)
 
-## Tecnologias que uso no meu dia
+## Technologies I use in my day
 
 <div style="display: inline_block"><br/>  
   
