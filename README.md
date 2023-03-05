@@ -1,7 +1,7 @@
 ### Hi! I'm Diogo 👋 💻 🛹
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogosvicente&show_icons=true&theme=radical)
-[![dioda-si's 42 stats](https://badge.mediaplus.ma/darkblue/dioda-si)](https://github.com/oakoudad/badge42)
+[![dioda-si's 42 stats](https://badge.mediaplus.ma/levi/dioda-si?1337Badge=off)](https://github.com/oakoudad/badge42)
 
 <hr>
 
