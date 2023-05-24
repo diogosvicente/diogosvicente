@@ -5,7 +5,7 @@
 [![dioda-si's 42 stats](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/stats?cursusId=21&coalitionId=345)](https://github.com/JaeSeoKim/badge42)
 
 
-| #   | Project                                                     | Badge                                                                                      |
+| #   | Project                                                     | Grade                                                                                      |
 | --- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | 1   | [42 Cursus Eu Aceito Rio](https://github.com/JaeSeoKim/badge42)            | [![dioda-si's 42 Cursus Eu Aceito Rio Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2798920)](https://github.com/JaeSeoKim/badge42) |
 | 2   | [42 Libft](https://github.com/JaeSeoKim/badge42)            | [![dioda-si's 42 Libft Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2579883)](https://github.com/JaeSeoKim/badge42) |
@@ -18,7 +18,7 @@
 | 9   | [42 push_swap](https://github.com/JaeSeoKim/badge42)        | [![dioda-si's 42 push_swap Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2926602)](https://github.com/JaeSeoKim/badge42) |
 | 10  | [42 Philosophers](https://github.com/JaeSeoKim/badge42)     | [![dioda-si's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2939942)](https://github.com/JaeSeoKim/badge42) |
 | 11  | [42 Exam Rank 03](https://github.com/JaeSeoKim/badge42)     | [![dioda-si's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3004934)](https://github.com/JaeSeoKim/badge42) |
-| 12  | [42 NetPractice](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2941689) | [Link](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2941689) |
+| 12  | [42 NetPractice](https://github.com/JaeSeoKim/badge42)      | [![dioda-si's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3067994)](https://github.com/JaeSeoKim/badge42) |
 | 13  | [42 CPP Module 00](https://github.com/JaeSeoKim/badge42)    | [![dioda-si's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3075012)](https://github.com/JaeSeoKim/badge42) |
 | 14  | [42 CPP Module 01](https://github.com/JaeSeoKim/badge42)    | [![dioda-si's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3091798)](https://github.com/JaeSeoKim/badge42) |
 
