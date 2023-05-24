@@ -4,6 +4,22 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogosvicente&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![dioda-si's 42 stats](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/stats?cursusId=21&coalitionId=345)](https://github.com/JaeSeoKim/badge42)
 
+[![dioda-si's 42 Cursus Eu Aceito Rio Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2798920)](https://github.com/JaeSeoKim/badge42)
+[![dioda-si's 42 Libft Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2579883)](https://github.com/JaeSeoKim/badge42)
+[![dioda-si's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2623819)](https://github.com/JaeSeoKim/badge42)
+[![dioda-si's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2673803)](https://github.com/JaeSeoKim/badge42)
+[![dioda-si's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2735589)](https://github.com/JaeSeoKim/badge42)
+[![dioda-si's 42 minitalk Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2851893)](https://github.com/JaeSeoKim/badge42)
+[![dioda-si's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2883829)](https://github.com/JaeSeoKim/badge42)
+[![dioda-si's 42 so_long Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2900532)](https://github.com/JaeSeoKim/badge42)
+[![dioda-si's 42 push_swap Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2926602)](https://github.com/JaeSeoKim/badge42)
+[![dioda-si's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2939942)](https://github.com/JaeSeoKim/badge42)
+[![dioda-si's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3004934)](https://github.com/JaeSeoKim/badge42)
+[https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2941689](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2941689)
+[![dioda-si's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3067994)](https://github.com/JaeSeoKim/badge42)
+[![dioda-si's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3075012)](https://github.com/JaeSeoKim/badge42)
+[![dioda-si's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3091798)](https://github.com/JaeSeoKim/badge42)
+
 <hr>
 
 ### About me!
