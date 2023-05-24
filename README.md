@@ -4,7 +4,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogosvicente&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![dioda-si's 42 stats](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/stats?cursusId=21&coalitionId=345)](https://github.com/JaeSeoKim/badge42)
 
-[![dioda-si's 42 Cursus Eu Aceito Rio Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2798920)](https://github.com/JaeSeoKim/badge42)
+<table>
+  <tr>
+    <td>Eu Aceito</td>
+    <td>[![dioda-si's 42 Cursus Eu Aceito Rio Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2798920)](https://github.com/JaeSeoKim/badge42)</td>
+  </tr>
+</table>
+
 [![dioda-si's 42 Libft Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2579883)](https://github.com/JaeSeoKim/badge42)
 [![dioda-si's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2623819)](https://github.com/JaeSeoKim/badge42)
 [![dioda-si's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2673803)](https://github.com/JaeSeoKim/badge42)
