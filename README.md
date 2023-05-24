@@ -15,9 +15,7 @@
 | 6   | [42 minitalk](https://github.com/JaeSeoKim/badge42)         | [![dioda-si's 42 minitalk Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2851893)](https://github.com/JaeSeoKim/badge42) |
 | 7   | [42 Exam Rank 02](https://github.com/JaeSeoKim/badge42)     | [![dioda-si's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2883829)](https://github.com/JaeSeoKim/badge42) |
 | 8   | [42 so_long](https://github.com/JaeSeoKim/badge42)          | [![dioda-si's 42 so_long Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2900532)](https://github.com/JaeSeoKim/badge42) |
-| 9   | [42 push_swap](https://github.com/JaeSeoKim/badge42)        | [![dioda-si's 42 push_swap Score](https://badge42.vercel.app/api/v2/cli11p80
-
-g004408l5gw7aupig/project/2926602)](https://github.com/JaeSeoKim/badge42) |
+| 9   | [42 push_swap](https://github.com/JaeSeoKim/badge42)        | [![dioda-si's 42 push_swap Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2926602)](https://github.com/JaeSeoKim/badge42) |
 | 10  | [42 Philosophers](https://github.com/JaeSeoKim/badge42)     | [![dioda-si's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2939942)](https://github.com/JaeSeoKim/badge42) |
 | 11  | [42 Exam Rank 03](https://github.com/JaeSeoKim/badge42)     | [![dioda-si's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3004934)](https://github.com/JaeSeoKim/badge42) |
 | 12  | [42 NetPractice](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2941689) | [Link](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/2941689) |
