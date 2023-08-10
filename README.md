@@ -20,10 +20,11 @@
 | 11  | [42 Exam Rank 03](https://github.com/JaeSeoKim/badge42)     | [![dioda-si's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3004934)](https://github.com/JaeSeoKim/badge42) |
 | 12  | [42 NetPractice](https://github.com/JaeSeoKim/badge42)      | [![dioda-si's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3067994)](https://github.com/JaeSeoKim/badge42) |
 | 13  | [42 CPP Module 00](https://github.com/JaeSeoKim/badge42)    | [![dioda-si's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3075012)](https://github.com/JaeSeoKim/badge42) |
-| 14  | [42 CPP Module 01](https://github.com/JaeSeoKim/badge42)    | [![dioda-si's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3091798)](https://github.com/JaeSeoKim/badge42) |
-| 15  | [42 CPP Module 02](https://github.com/JaeSeoKim/badge42)    | [![dioda-si's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3220250)](https://github.com/JaeSeoKim/badge42) |
-| 16  | [42 CPP Module 03](https://github.com/JaeSeoKim/badge42)    |  |
-| 17  | [42 CPP Module 04](https://github.com/JaeSeoKim/badge42)    |  |
+| 14  | [42 Exam Rank 04](https://github.com/JaeSeoKim/badge42)    | [![dioda-si's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3210388)](https://github.com/JaeSeoKim/badge42) |
+| 15  | [42 CPP Module 01](https://github.com/JaeSeoKim/badge42)    | [![dioda-si's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3091798)](https://github.com/JaeSeoKim/badge42) |
+| 16  | [42 CPP Module 02](https://github.com/JaeSeoKim/badge42)    | [![dioda-si's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3220250)](https://github.com/JaeSeoKim/badge42) |
+| 17  | [42 CPP Module 03](https://github.com/JaeSeoKim/badge42)    |  |
+| 18  | [42 CPP Module 04](https://github.com/JaeSeoKim/badge42)    |  |
 
 <hr>
 
