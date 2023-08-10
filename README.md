@@ -23,6 +23,7 @@
 | 14  | [42 CPP Module 01](https://github.com/JaeSeoKim/badge42)    | [![dioda-si's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3091798)](https://github.com/JaeSeoKim/badge42) |
 | 15  | [42 CPP Module 02](https://github.com/JaeSeoKim/badge42)    | [![dioda-si's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3220250)](https://github.com/JaeSeoKim/badge42) |
 | 16  | [42 CPP Module 03](https://github.com/JaeSeoKim/badge42)    |  |
+| 17  | [42 CPP Module 04](https://github.com/JaeSeoKim/badge42)    |  |
 
 <hr>
 
