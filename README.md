@@ -25,7 +25,7 @@
 | 16  | [42 CPP Module 02](https://github.com/JaeSeoKim/badge42)    | [![dioda-si's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3220250)](https://github.com/JaeSeoKim/badge42) |
 | 17  | [42 CPP Module 03](https://github.com/JaeSeoKim/badge42)    | [![dioda-si's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3232904)](https://github.com/JaeSeoKim/badge42) |
 | 18  | [42 CPP Module 04](https://github.com/JaeSeoKim/badge42)    |  [![dioda-si's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3235069)](https://github.com/JaeSeoKim/badge42) |
-| 19  | [![dioda-si's 42 cub3d Score](https://github.com/JaeSeoKim/badge42)  |  [![dioda-si's 42 cub3d Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3244630)](https://github.com/JaeSeoKim/badge42)
+| 19  | [![42 Cub3d](https://github.com/JaeSeoKim/badge42)  |  [![dioda-si's 42 cub3d Score](https://badge42.vercel.app/api/v2/cli11p80g004408l5gw7aupig/project/3244630)](https://github.com/JaeSeoKim/badge42)
 <hr>
 
 ### About me!
