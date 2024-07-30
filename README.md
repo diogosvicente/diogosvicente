@@ -14,6 +14,7 @@
   <li> 📚 Postgraduate in Multiplatform Mobile Application Projects at <a href="https://descomplica.com.br/">Descomplica</a></li>
   <li> 📚 Currently increasing my skills in Shellscrtipt, C and C++ at <a href="https://42.rio/">42 Rio</a> </li>
   <li> ✉️ Contact me at: dioda-si@student.42.rio </li>
+  <li> ✉️ <a href="https://www.linkedin.com/in/diogo-vicente-do-nascimento-8a5a81288/">LinkedIn</a> </li>
 </ul>
 
 <hr>
